@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains a curated dataset of molecular compounds including their **2D structures, 3D structures, SMILES representations, and physicochemical properties**. The dataset is designed to support research in **computational chemistry, cheminformatics, and data-driven modeling**.
+This supplementary contains a curated dataset of molecular compounds including their **2D structures, 3D structures, SMILES representations, and physicochemical properties**. The dataset is designed to support research in **computational chemistry, cheminformatics, and data-driven modeling**.
 
 This work is part of ongoing research focused on **structure–property relationships and predictive modeling**.
 
